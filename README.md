@@ -1,3 +1,3 @@
 # ozdemir-hafriyat.github.io
 
-@selimcanozdemir tarafından geliştirilmektedir.
+[@selimcanozdemir](https://github.com/selimcanozdemir) tarafından geliştirilmektedir.
