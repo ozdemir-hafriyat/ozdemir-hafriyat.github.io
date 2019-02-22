@@ -1,0 +1,6 @@
+    .px {
+        background-image: url("./2.jpg");
+        background-size: cover;
+        filter: blur(0.6px);
+        filter: brightness(50%);
+    }
